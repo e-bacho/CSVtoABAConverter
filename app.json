@@ -1,7 +1,7 @@
 {
 	"name": "ABA to CSV Converter",
 	"description": "Convert CSV files to ABA",
-	"repository": "https://github.com/e-bacho/CSVtoABAConverter",
+	"repository": "https://github.com/e-bacho/CSVtoABAConverter/tree/gh-pages",
 	"logo": "",
 	"keywords": ["csv to aba", "converter", "aba"]
 }
