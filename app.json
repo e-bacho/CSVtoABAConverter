@@ -1,0 +1,7 @@
+{
+  "name": "CSV to ABA Converter",
+  "description": "Node.js CSV to ABA Converter",
+  "repository": "https://github.com/e-bacho/CSVtoABAConverter",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "keywords": ["CSV to ABA", "ABA file", "Converter"]
+}
