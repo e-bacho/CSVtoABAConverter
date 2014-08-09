@@ -1,0 +1,23 @@
+{
+  "name": "csv-aba-converter",
+  "version": "0.0.1",
+  "description": "CSV to ABA Converter",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.8.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "ABA",
+    "CSV",
+    "to",
+    "ABA",
+    "Converter"
+  ],
+  "author": "Boris Bachovski",
+  "license": "ISC"
+}
